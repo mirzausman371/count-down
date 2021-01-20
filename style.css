@@ -5,7 +5,7 @@ html, body {
 }
 @media(max-width:768px) {
     #logo img {
-        height: 100px !important;
+        height: 100% !important;
         margin-top: 50px !important;
         margin-bottom: 40px !important;
         color: #ffffff;
@@ -36,7 +36,7 @@ html, body {
 }
 #logo img {
     margin-top: 20px;
-    height: 200px;
+    height: 600px;
     fill: #ffffff;
     color: #ffffff;
 }
